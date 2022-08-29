@@ -6,7 +6,7 @@ https://indico.ictp.it/event/9840/
 
 # Python tutorials and hands-on resources
 
-Classes Scientific Programming using Python: https://github.com/wtpc / https://github.com/orgs/wtpc/repositories
+Classes of scientific programming using Python: https://github.com/wtpc / https://github.com/orgs/wtpc/repositories
 The resources include basic Python + source code management (GIT) + Object Oriented Programming (in Python) + multi-language programming (compiled languages with Python)  + debugging and profiling + documentation
 
 
