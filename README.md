@@ -10,10 +10,36 @@ The course "Machine learning fundamentals", is part of the ICTP-International Wo
 # Description of the course
 The course was developed specially for the scientific community with the objective of showing different concepts and techniques of Machine Learning an these application on some scenarios of Space Weather.
 
-# Which are the topics of the course:
-The course is divided in two parts: the lectures and the hands-on session.
-The main topics of the course and the hadns-on are:
-1. 
+# Which are the topics of the course?
+The course is divided in two parts: the [lectures](https://github.com/Laboratorio-Computacion-Cientifica/International-Workshop-on-Machine-Learning-for-Space-Weather-Fundamentals-Tools-and-Future-Prospects/tree/main/lectures) and the [hands-on sessions](https://github.com/Laboratorio-Computacion-Cientifica/International-Workshop-on-Machine-Learning-for-Space-Weather-Fundamentals-Tools-and-Future-Prospects/tree/main/hands-on-sessions).
+
+In this course you'll to learn about:
+
+- Data Science pipeline used in general in the projects
+- Machine Learning (ML)
+  - What is Machine Learning?
+  - What is a ML-based modeling?
+  - Why we can apply ML in SWx?
+  - Basic concepts of ML
+    - Hiperparameters of a ML techniques (activation funciton, loss function, epochs, batch size, etc)
+    - Loss function (in classification and forecasting)
+    - Overfiting, underfiting, ideal fit!
+    - How to messure the performance of the models? (Metrics)
+  - Concepts of techniques for classification, forecasting and clustering
+    - Artificial neural networks (ANN)
+    - Deep learning (DL)
+
+# How to clone and use the repo?
+For clone the project in your local PC, you have some options:
+
+- Option 1:
+Scroll to the top of this page and make click on the green button "Code". Next, click in "Download ZIP". After this, you can extract the project in your local PC.
+
+- Option 2:
+From the terminal of your system, run the next command:
+```
+git clone https://github.com/Laboratorio-Computacion-Cientifica/International-Workshop-on-Machine-Learning-for-Space-Weather-Fundamentals-Tools-and-Future-Prospects.git
+```
 
 # Python tutorials and hands-on resources
 
