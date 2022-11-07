@@ -1,10 +1,9 @@
 #
-![image](https://user-images.githubusercontent.com/12236622/199222280-b9cbcde0-2d6d-4682-b7dc-8d4ef893a0af.png)
+![banner_event](https://user-images.githubusercontent.com/12236622/200206797-8509326d-4089-4523-9e88-d783256cc607.jpeg)
 
 # Machine learning fundamentals and hands-on
 
 The course "Machine learning fundamentals", is part of the ICTP-International Workshop on Machine Learning for Space Weather: Fundamentals, Tools and Future Prospects | (smr 3750) Buenos Aires, Argentina, 2022. (https://indico.ictp.it/event/9840/)
-
 
 
 # Description of the course
